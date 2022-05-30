@@ -33,7 +33,7 @@ public class Main {
     long expected = 120; //kì vọng hàm ói về 120 nếu 5!
     int n = 5; //input
     long actual = MathUtil.getFactorial(n);
-        System.out.println("5! = " + expected);
+        System.out.println("5! = " + expected + " (Expected)");
         System.out.println("5! = " + actual + " (Actual)");
     }   
             
