@@ -40,7 +40,7 @@ public class MathUtilityTest {
         Assert.assertEquals(2, MathUtil.getFactorial(2));
         Assert.assertEquals(6, MathUtil.getFactorial(3));
         Assert.assertEquals(24, MathUtil.getFactorial(4));
-        Assert.assertEquals(6, MathUtil.getFactorial(120));
+        Assert.assertEquals(120, MathUtil.getFactorial(6));
 //    Assert.assertEquals(24, MathUtil.getFactorial(5));
     }   //hàm giúp so sánh 2 giá trị nào đó giống nhau ko , nếu giống nhau thì ra xanh đèn đường , được thông , code ngon
     //ít nhất cho case đang test
