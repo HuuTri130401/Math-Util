@@ -102,7 +102,7 @@ public class MathUtilityTest {
             //nhưng ko chắc ngoại lệ mình cần xuất hiện hay ko ?
             //có đoạn code kiểm soát đúng ngoại lệ IllegalArgumentException xh
             Assert.assertEquals("Invalid argument. N must be between 0...20", e.getMessage());
-        
+
         }
 
     }

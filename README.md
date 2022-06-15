@@ -11,7 +11,6 @@
 
 ### Screen shot:
 ![DDT & JUnit-TDD](https://github.com/HuuTri130401/math-util/blob/main/images/DDT%20with%20JUnit.png)
-
 #### © 2022 HuuTri130401
 
 
